@@ -4,10 +4,10 @@
 
 ### Stop paying $20/month. Get frontier-tier Gemini and Claude models at **$0 out-of-pocket** using **$300 in Google Cloud free trial credits**.
 
-[![GitHub Stars](https://img.shields.io/github/stars/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock?style=social)](https://github.com/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock?style=social)](https://github.com/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/mohan67nv/free-ai-models-cloud-credits?style=social)](https://github.com/mohan67nv/free-ai-models-cloud-credits/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mohan67nv/free-ai-models-cloud-credits?style=social)](https://github.com/mohan67nv/free-ai-models-cloud-credits/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](../LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mohan67nv/free-ai-models-cloud-credits/pulls)
 
 **If this guide saves you money, please ⭐ star and 🍴 fork this repo — it helps others find it!**
 
@@ -606,7 +606,7 @@ Found a better region, an updated model string, or a clearer explanation?
 3. Edit `gcp/README.md`
 4. Open a **Pull Request**
 
-Found an issue? Open an [Issue](https://github.com/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock/issues).
+Found an issue? Open an [Issue](https://github.com/mohan67nv/free-ai-models-cloud-credits/issues).
 
 ---
 

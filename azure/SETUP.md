@@ -19,8 +19,8 @@ This project lets you use **DeepSeek-V4-Pro** (and other models) deployed on **A
 
 ```bash
 # 1. Clone & enter the project
-git clone https://github.com/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock.git
-cd free-tier-claude-on-cursor-via-aws-bedrock/azure
+git clone https://github.com/mohan67nv/free-ai-models-cloud-credits.git
+cd free-ai-models-cloud-credits/azure
 
 # 2. Login to Azure
 az login

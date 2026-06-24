@@ -4,10 +4,10 @@
 
 ### Use Claude, Gemini, and other frontier AI models in Cursor IDE for free — using cloud provider credits you already qualify for.
 
-[![GitHub Stars](https://img.shields.io/github/stars/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock?style=social)](https://github.com/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock?style=social)](https://github.com/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/mohan67nv/free-ai-models-cloud-credits?style=social)](https://github.com/mohan67nv/free-ai-models-cloud-credits/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/mohan67nv/free-ai-models-cloud-credits?style=social)](https://github.com/mohan67nv/free-ai-models-cloud-credits/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mohan67nv/free-ai-models-cloud-credits/pulls)
 
 **If this repo saves you money, please ⭐ star and 🍴 fork it — it helps others find it!**
 
@@ -109,7 +109,7 @@ This repo grows with community contributions. If you find a better model string,
 3. Make your changes in the relevant folder (`aws/`, `gcp/`, `azure/`, or root)
 4. Open a **Pull Request** with a short description
 
-Have a guide idea for **Cloudflare AI**, **Groq**, or another provider? Open an [Issue](https://github.com/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock/issues) and we will build it out together.
+Have a guide idea for **Cloudflare AI**, **Groq**, or another provider? Open an [Issue](https://github.com/mohan67nv/free-ai-models-cloud-credits/issues) and we will build it out together.
 
 ---
 
@@ -117,8 +117,8 @@ Have a guide idea for **Cloudflare AI**, **Groq**, or another provider? Open an 
 
 ### If this repo saved you money, give it a ⭐ star — it helps other developers find it!
 
-[![Star this repo](https://img.shields.io/badge/⭐%20Star%20this%20repo-yellow?style=for-the-badge)](https://github.com/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock)
-[![Fork this repo](https://img.shields.io/badge/🍴%20Fork%20this%20repo-blue?style=for-the-badge)](https://github.com/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock/fork)
+[![Star this repo](https://img.shields.io/badge/⭐%20Star%20this%20repo-yellow?style=for-the-badge)](https://github.com/mohan67nv/free-ai-models-cloud-credits)
+[![Fork this repo](https://img.shields.io/badge/🍴%20Fork%20this%20repo-blue?style=for-the-badge)](https://github.com/mohan67nv/free-ai-models-cloud-credits/fork)
 
 ---
 
