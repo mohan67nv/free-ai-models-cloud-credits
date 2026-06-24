@@ -57,30 +57,46 @@ Use Google Gemini 2.5 Pro, Gemini 2.0 Flash, Claude 3.5 Sonnet, and Claude 4 in 
 
 ---
 
-## 🔍 Quick Comparison
+### 🔷 [Azure AI Foundry — DeepSeek, Mistral, GPT + more](azure/README.md)
 
-| Feature | AWS Bedrock | GCP Vertex AI |
-| :--- | :---: | :---: |
-| Free credits | $200 | $300 |
-| Credits expire? | No expiry on promotional credits | 90-day trial window |
-| Auto-charge after trial? | No (budget alert protects you) | No (explicit upgrade required) |
-| Claude models | ✅ Yes | ✅ Yes |
-| Gemini models | ❌ No | ✅ Yes |
-| Native Cursor support | ✅ Built-in | Requires LiteLLM proxy |
-| VS Code support | ✅ Via Continue | ✅ Via Continue (native) |
-| Setup complexity | Low | Medium |
+Use DeepSeek-V4-Pro, Mistral Large, GPT-4o, and embedding models in VS Code, Cursor, and Cline via Azure AI Foundry, with working Python scripts and a local proxy included.
 
-> **Recommendation:** Start with the **AWS guide** if you want the simplest setup. Use the **GCP guide** if you want access to Gemini models or want to stack credits across both providers.
+| | |
+| :--- | :--- |
+| **Free credits** | **$200 guaranteed** + up to $1,000 via partner programs |
+| **Models available** | DeepSeek-V4-Pro, Mistral Large, GPT-4o, text-embedding-3-large |
+| **Setup method** | API key (direct) or local proxy — working scripts included |
+| **Estimated free runway** | Weeks to months depending on usage |
+| **Difficulty** | ⭐⭐ Intermediate — requires Azure CLI + Python |
+
+👉 **[Read the Azure Guide →](azure/README.md)**
+
+| Feature | AWS Bedrock | GCP Vertex AI | Azure AI Foundry |
+| :--- | :---: | :---: | :---: |
+| Free credits | $200 | $300 | $200–$1,000 |
+| Credits expire? | No expiry | 90-day trial | 30 days |
+| Auto-charge after trial? | No | No | No |
+| Claude models | ✅ Yes | ✅ Yes (billed to card) | ❌ No |
+| Gemini models | ❌ No | ✅ Yes | ❌ No |
+| DeepSeek / Mistral | ❌ No | ❌ No | ✅ Yes |
+| GPT-4o | ❌ No | ❌ No | ✅ Yes |
+| Native Cursor support | ✅ Built-in | Requires LiteLLM | Via API key |
+| VS Code support | ✅ Via Continue | ✅ Via Continue | ✅ Via Cline / Continue |
+| Scripts included | ❌ | ❌ | ✅ Python scripts + proxy |
+| Setup complexity | Low | Medium | Medium |
+
+> **Recommendation:** Start with the **AWS guide** if you want the simplest setup and need Claude. Use the **GCP guide** for Gemini models. Use the **Azure guide** if you want DeepSeek, Mistral, or GPT-4o with ready-to-run Python scripts.
 
 ---
 
 ## 🗺️ Can I Use Both?
 
-Yes. Run both setups simultaneously:
+Yes. All three setups work independently and simultaneously:
 - **AWS Bedrock** connects directly inside Cursor's built-in model settings
 - **GCP Vertex AI** runs through a local LiteLLM proxy on a different port
+- **Azure AI Foundry** connects via API key or a local proxy on port 8080
 
-You will have access to Claude (via AWS), Gemini (via GCP), and Claude (via GCP) — all at the same time, all from the same Cursor IDE.
+You can have Claude (AWS), Gemini (GCP), and DeepSeek/Mistral (Azure) all available in Cursor at the same time.
 
 ---
 
@@ -90,10 +106,10 @@ This repo grows with community contributions. If you find a better model string,
 
 1. **Fork** this repository
 2. Create a branch: `git checkout -b add/your-improvement`
-3. Make your changes in the relevant folder (`aws/`, `gcp/`, or root)
+3. Make your changes in the relevant folder (`aws/`, `gcp/`, `azure/`, or root)
 4. Open a **Pull Request** with a short description
 
-Have a guide idea for **Azure AI Studio**, **Cloudflare AI**, or another provider? Open an [Issue](https://github.com/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock/issues) and we will build it out together.
+Have a guide idea for **Cloudflare AI**, **Groq**, or another provider? Open an [Issue](https://github.com/mohan67nv/free-tier-claude-on-cursor-via-aws-bedrock/issues) and we will build it out together.
 
 ---
 
